@@ -4,7 +4,7 @@
 <h4><strong>Formação:</strong> Engenharia Civil (UFC 2000), Gestão financeira e Controladoria (FGV 2005), Starter FullStack Developer (GrowDev 2022)</h4>
 <h4>Experiências Profissionais: Confecções Chamonix Ltda, DNIT.</h4>
 <h4>Linguagem de Programação favorita: C</h4>
-<h4>O que está estudando atualmente: HTML</h4>
+<h4>O que está estudando atualmente: HTML, Css e Javascript</h4>
 <!--
 **leandrolandim/leandrolandim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
